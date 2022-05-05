@@ -1,0 +1,1 @@
+This is a website about charity. HTML,CSS,PHP,JAVASCRIPT and Mysql is used in this project. This is a begginer level project and made only for desktops. The project is not fully completed as it was for academic purpose. This website is compatible for any type of browsers.
